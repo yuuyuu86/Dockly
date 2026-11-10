@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Dockly</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dockly</string>
+	<key>CFBundleExecutable</key>
+	<string>Dockly</string>
+	<key>CFBundleIdentifier</key>
+	<string>app.dockly.Dockly</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>ja</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Dockly shows your upcoming events in the Calendar widget.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Dockly shows your upcoming events in the Calendar widget.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Dockly shows your open reminders in the Reminders widget.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Dockly shows your open reminders in the Reminders widget.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Dockly uses your location to show local weather.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Dockly controls media playback and reads now playing information.</string>
+	<key>NSUserNotificationsUsageDescription</key>
+	<string>Dockly notifies you when a timer or alarm finishes.</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array/>
+</dict>
+</plist>
